@@ -1,0 +1,3 @@
+This notebook implements the CNN model as per "Modern practical convolutional neural networks for multivariate regression: Applications to NIR calibration"
+
+As per the investigation, this is a regression problem. Basically here I have used the NIR spectroscopic measurements to predict the soil organic carbon content. I have also referred some analysis functions I found from the spectroscopy blog, nirpyresearch

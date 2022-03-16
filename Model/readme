@@ -1,0 +1,5 @@
+This notebook implements the PLSR model as per "Modern practical convolutional neural networks for multivariate regression: Applications to NIR calibration"
+
+Also I have implemented the Ridge regression to compare the models. Also this implementations calculates the distance among the various fields of study and location.
+
+As per the investigation, this is a regression problem. Basically here I have used the NIR spectroscopic measurements to predict the soil organic carbon content. I have also referred some analysis functions I found from the spectroscopy blog, nirpyresearch

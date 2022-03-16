@@ -4,6 +4,8 @@ The dataset consists of spectroscopic measurements (readings of NIR and UVVis se
 
 This notebook implements the PLSR model, Ridge as well as CNN model.
 
-Basically here I have used the NIR spectroscopic measurements to predict the soil organic carbon content. I have also referred some analysis functions I found from the spectroscopy blog, nirpyresearch: [Reference](https://nirpyresearch.com/two-scatter-correction-techniques-nir-spectroscopy-python)
+I have used two below references to understand the study:
+
+Basically here I have used the NIR spectroscopic measurements to predict the soil organic carbon content. I have also referred some analysis functions I found from the spectroscopy blog, nirpyresearch: [Reference1](https://nirpyresearch.com/two-scatter-correction-techniques-nir-spectroscopy-python)
 
 The PLSR and CNN models are foundings as per the paper "Modern practical convolutional neural networks for multivariate regression: Applications to NIR calibration": [Reference2](https://www.sciencedirect.com/science/article/abs/pii/S0169743918301382?via%3Dihub) 
